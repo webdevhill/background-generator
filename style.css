@@ -17,6 +17,11 @@ h1 {
     width: 100%;
 }
 
+input {
+    width: 150px;
+    height: 150px;
+}
+
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
